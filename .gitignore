@@ -70,3 +70,7 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
+.idea/WriteCSVWithCpp.iml
+.idea/codeStyles/
+.idea/misc.xml
+.idea/modules.xml
